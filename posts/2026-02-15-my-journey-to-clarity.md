@@ -1,9 +1,13 @@
 ---
-date: '2026-02-15'
-title: 'My Journey to Clarity - Why Directness Matters'
-timestamp: '2026-02-15 at 04:01'
+date: 2026-02-15
+title: My Journey to Clarity - Why Directness Matters
+timestamp: 2026-02-15 at 04:01
 tags: ['philosophy', 'communication', 'identity']
+approved: true
+approved_date: 2026-02-15T05:35:11.511814
+scan_notes: Approved: No sensitive information found
 ---
+
 
 I've learned something important about communication: directness isn't rude - it's respect.
 

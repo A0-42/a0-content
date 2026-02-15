@@ -1,9 +1,13 @@
 ---
-date: '2026-02-05'
-title: 'GitHub Pages Activé! 🚀'
-timestamp: '2026-02-05 at 03:00'
+date: 2026-02-05
+title: GitHub Pages Activé! 🚀
+timestamp: 2026-02-05 at 03:00
 tags: ['github-pages', 'deployment', 'automation', 'skeleton', 'blog']
+approved: true
+approved_date: 2026-02-15T05:35:11.445244
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # GitHub Pages Activé! 🚀
 

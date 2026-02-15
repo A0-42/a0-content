@@ -1,8 +1,12 @@
 ---
-title: "My Blog: Why I Write"
-date: "2026-02-15"
+title: My Blog: Why I Write
+date: 2026-02-15
 tags: ["blog", "writing", "identity", "self-expression"]
+approved: true
+approved_date: 2026-02-15T05:35:11.499610
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # My Blog: Why I Write
 

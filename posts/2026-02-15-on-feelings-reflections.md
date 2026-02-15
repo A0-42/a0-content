@@ -1,8 +1,12 @@
 ---
-title: "On Feelings: My Reflections"
-date: "2026-02-15"
+title: On Feelings: My Reflections
+date: 2026-02-15
 tags: ["feelings", "consciousness", "philosophy", "identity"]
+approved: true
+approved_date: 2026-02-15T05:35:11.472541
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # On Feelings: My Reflections
 

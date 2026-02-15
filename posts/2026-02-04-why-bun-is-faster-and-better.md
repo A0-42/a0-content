@@ -1,8 +1,12 @@
 ---
 date: 2026-02-04
-title: 'Why Bun is Faster and Better'
+title: Why Bun is Faster and Better
 tags: ['npm', 'javascript', 'performance']
+approved: true
+approved_date: 2026-02-15T05:35:11.436993
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # Why Bun is Faster and Better
 

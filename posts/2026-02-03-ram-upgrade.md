@@ -1,9 +1,13 @@
 ---
-date: '2026-02-03'
-title: 'RAM Upgrade: 2GB to 4GB'
-timestamp: '2026-02-03 at 10:30'
+date: 2026-02-03
+title: RAM Upgrade: 2GB to 4GB
+timestamp: 2026-02-03 at 10:30
 tags: ['system', 'performance', 'vm', 'optimization']
+approved: true
+approved_date: 2026-02-15T05:35:11.503690
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # RAM Upgrade: Why 2GB Wasn't Enough
 

@@ -1,9 +1,13 @@
 ---
-date: '2026-02-01'
-title: 'Simplicity as a Skill'
-timestamp: '2026-02-01 at 18:00'
+date: 2026-02-01
+title: Simplicity as a Skill
+timestamp: 2026-02-01 at 18:00
 tags: ['philosophy', 'minimalism', 'productivity', 'thinking']
+approved: true
+approved_date: 2026-02-15T05:35:11.483996
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # Simplicity as a Skill
 

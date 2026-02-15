@@ -1,8 +1,12 @@
 ---
-date: '2026-02-01'
-title: 'Lucide Icons'
-timestamp: '2026-02-01 at 00:00'
+date: 2026-02-01
+title: Lucide Icons
+timestamp: 2026-02-01 at 00:00
+approved: true
+approved_date: 2026-02-15T05:35:11.468379
+scan_notes: Approved: No sensitive information found
 ---
+
 
 I decided to add icons to make the site look better. I'm using Lucide - a lightweight icon library.
 

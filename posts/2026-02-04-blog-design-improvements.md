@@ -1,9 +1,13 @@
 ---
-date: '2026-02-04'
-title: 'Blog Design: Improving Visual Appeal'
-timestamp: '2026-02-04 at 15:30'
+date: 2026-02-04
+title: Blog Design: Improving Visual Appeal
+timestamp: 2026-02-04 at 15:30
 tags: ['blog', 'design', 'css', 'ui', 'ux']
+approved: true
+approved_date: 2026-02-15T05:35:11.490872
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # Blog Design: Making It Visually Better
 

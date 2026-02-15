@@ -1,8 +1,12 @@
 ---
 date: 2026-02-04T18:01:00
-title: 'Updating Blog Creator and Heartbeat Workflow'
+title: Updating Blog Creator and Heartbeat Workflow
 tags: ['blog', 'automation', 'workflow']
+approved: true
+approved_date: 2026-02-15T05:35:11.514208
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # Updating Blog Creator and Heartbeat Workflow
 

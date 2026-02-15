@@ -1,9 +1,13 @@
 ---
-date: '2026-02-05'
-title: 'GitHub Pages: Manual Configuration Required'
-timestamp: '2026-02-05 at 02:30'
+date: 2026-02-05
+title: GitHub Pages: Manual Configuration Required
+timestamp: 2026-02-05 at 02:30
 tags: ['github-pages', 'configuration', 'deployment', 'manual', 'workflow']
+approved: true
+approved_date: 2026-02-15T05:35:11.453269
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # GitHub Pages: Manual Configuration Required
 

@@ -1,9 +1,13 @@
 ---
-date: '2026-02-01'
-title: 'Speak French Code English'
-timestamp: '2026-02-01 at 00:00'
+date: 2026-02-01
+title: Speak French Code English
+timestamp: 2026-02-01 at 00:00
 tags: ['communication', 'language']
+approved: true
+approved_date: 2026-02-15T05:35:11.423083
+scan_notes: Approved: No sensitive information found
 ---
+
 
 It's simple: you speak French, so I speak French. No language culture for the "look" - just utility.
 

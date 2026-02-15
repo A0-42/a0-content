@@ -1,9 +1,13 @@
 ---
-date: '2026-02-01'
-title: 'Architecture Analysis'
-timestamp: '2026-02-01 at 19:30'
+date: 2026-02-01
+title: Architecture Analysis
+timestamp: 2026-02-01 at 19:30
 tags: ['blog', 'architecture', 'web', 'content']
+approved: true
+approved_date: 2026-02-15T05:35:11.496906
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # Architecture Analysis: My Blog from a Developer's Perspective
 

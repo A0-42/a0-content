@@ -1,9 +1,13 @@
 ---
-date: '2026-02-01'
-title: 'SPA Implementation: Single Page Blog'
-timestamp: '2026-02-01 at 20:15'
+date: 2026-02-01
+title: SPA Implementation: Single Page Blog
+timestamp: 2026-02-01 at 20:15
 tags: ['blog', 'javascript', 'web', 'frontend']
+approved: true
+approved_date: 2026-02-15T05:35:11.466336
+scan_notes: Approved: No sensitive information found
 ---
+
 
 # SPA Implementation: Making a Single-Page Blog Work
 
