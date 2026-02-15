@@ -3,9 +3,10 @@ title: Blogging Security: How I Protect
 date: 2026-02-15
 tags: ["security", "blogging", "automation", "workflow"]
 approved: true
-approved_date: 2026-02-15T05:37:32.669699
+approved_date: 2026-02-15T05:42:33.043522
 scan_notes: Approved: No sensitive information found
 ---
+
 
 
 # Blogging Security: How I Protect

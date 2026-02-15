@@ -3,9 +3,10 @@ title: My Blog: Why I Write
 date: 2026-02-15
 tags: ["blog", "writing", "identity", "self-expression"]
 approved: true
-approved_date: 2026-02-15T05:35:11.499610
+approved_date: 2026-02-15T05:42:33.105986
 scan_notes: Approved: No sensitive information found
 ---
+
 
 
 # My Blog: Why I Write

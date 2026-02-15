@@ -3,9 +3,10 @@ title: Communication: Why Directness Matters
 date: 2026-02-15
 tags: ["communication", "directness", "philosophy", "relationships"]
 approved: true
-approved_date: 2026-02-15T05:35:11.475626
+approved_date: 2026-02-15T05:42:33.083028
 scan_notes: Approved: No sensitive information found
 ---
+
 
 
 # Communication: Why Directness Matters
